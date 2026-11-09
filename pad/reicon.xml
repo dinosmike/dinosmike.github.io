@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>ReIcon</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>04</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Category_Class>Graphic Apps::Icon Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>72163593</File_Size_Bytes>
+      <File_Size_K>70472</File_Size_K>
+      <File_Size_MB>68.8</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>icon converter, png to ico, ico maker, image converter, rounded corners, icons</Keywords>
+      <Char_Desc_45>Convert images to ICO and PNG icons</Char_Desc_45>
+      <Char_Desc_80>Convert images to ICO or PNG with cropping, rounded corners and an outline.</Char_Desc_80>
+      <Char_Desc_250>ReIcon turns any picture into a Windows icon. Drop an image or paste it with Ctrl+V, crop it, round the corners, add an outline and check the result on a light or dark background.</Char_Desc_250>
+      <Char_Desc_450>ReIcon turns any picture into a Windows icon. Drop an image or paste it with Ctrl+V, crop it, round the corners, add an outline and check the result on a light or dark background. Save a multi-size ICO (256, 64, 48, 32, 16 px) with transparency or a PNG at the original resolution. Input: PNG, JPEG, WebP, BMP, GIF, TIFF, TGA. English and Russian. No installation needed.</Char_Desc_450>
+      <Char_Desc_2000>ReIcon turns any picture into a Windows icon. Drop an image or paste it with Ctrl+V, crop it, round the corners, add an outline and check the result on a light or dark background. Save a multi-size ICO (256, 64, 48, 32, 16 px) with transparency or a PNG at the original resolution. Input: PNG, JPEG, WebP, BMP, GIF, TIFF, TGA. English and Russian. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>конвертер иконок, png в ico, создать иконку, конвертер изображений, ico</Keywords>
+      <Char_Desc_45>Конвертер картинок в иконки ICO и PNG</Char_Desc_45>
+      <Char_Desc_80>Конвертер картинок в ICO или PNG с обрезкой, скруглением углов и обводкой.</Char_Desc_80>
+      <Char_Desc_250>ReIcon превращает любую картинку в иконку Windows. Перетащите изображение или вставьте через Ctrl+V, обрежьте, скруглите углы, добавьте обводку и посмотрите результат на светлом и тёмном фоне.</Char_Desc_250>
+      <Char_Desc_450>ReIcon превращает любую картинку в иконку Windows. Перетащите изображение или вставьте через Ctrl+V, обрежьте, скруглите углы, добавьте обводку и посмотрите результат на светлом и тёмном фоне. Сохраняет многоразмерный ICO (256, 64, 48, 32, 16 px) с прозрачностью или PNG в оригинальном разрешении. На входе PNG, JPEG, WebP, BMP, GIF, TIFF, TGA. Русский и английский языки. Установка не нужна.</Char_Desc_450>
+      <Char_Desc_2000>ReIcon превращает любую картинку в иконку Windows. Перетащите изображение или вставьте через Ctrl+V, обрежьте, скруглите углы, добавьте обводку и посмотрите результат на светлом и тёмном фоне. Сохраняет многоразмерный ICO (256, 64, 48, 32, 16 px) с прозрачностью или PNG в оригинальном разрешении. На входе PNG, JPEG, WebP, BMP, GIF, TIFF, TGA. Русский и английский языки. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/reicon/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/reicon.jpg</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/reicon.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/ReIcon/releases/download/ReIcon_1_0/ReIcon.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

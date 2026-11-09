@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>ReLight</Program_Name>
+    <Program_Version>1.1</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>09</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Category_Class>Desktop::Other</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>72533820</File_Size_Bytes>
+      <File_Size_K>70834</File_Size_K>
+      <File_Size_MB>69.2</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>ambilight, adalight, led strip, arduino, screen backlight, bias lighting, music visualizer</Keywords>
+      <Char_Desc_45>Screen backlight for Adalight LED strips</Char_Desc_45>
+      <Char_Desc_80>Screen backlight for Adalight LED strips: screen colors, music, cinema and</Char_Desc_80>
+      <Char_Desc_250>ReLight turns an Adalight LED strip (Arduino) behind your TV or monitor into a screen backlight. The strip repeats the colors along the edges of the screen; cinema mode skips black bars and gently breathes with the sound.</Char_Desc_250>
+      <Char_Desc_450>ReLight turns an Adalight LED strip (Arduino) behind your TV or monitor into a screen backlight. The strip repeats the colors along the edges of the screen; cinema mode skips black bars and gently breathes with the sound. It can also react to music or your microphone, glow with one steady color, or play 14 rainbow effects with an editor and a playlist. Games and video players can get their own mode automatically.</Char_Desc_450>
+      <Char_Desc_2000>ReLight turns an Adalight LED strip (Arduino) behind your TV or monitor into a screen backlight. The strip repeats the colors along the edges of the screen; cinema mode skips black bars and gently breathes with the sound. It can also react to music or your microphone, glow with one steady color, or play 14 rainbow effects with an editor and a playlist. Games and video players can get their own mode automatically. ReLight finds the strip's port by itself and has an LED count test and a calibration screen. Tray menu, global hotkeys, autostart, dark and light themes, English and Russian. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>подсветка экрана, ambilight, adalight, светодиодная лента, arduino, подсветка телевизора</Keywords>
+      <Char_Desc_45>Подсветка экрана для лент Adalight</Char_Desc_45>
+      <Char_Desc_80>Подсветка экрана для лент Adalight: цвета экрана, музыка, кино и переливы.</Char_Desc_80>
+      <Char_Desc_250>ReLight превращает ленту Adalight (Arduino) за телевизором или монитором в подсветку экрана. Лента повторяет цвета по краям картинки, а в режиме кино пропускает чёрные полосы и мягко «дышит» со звуком.</Char_Desc_250>
+      <Char_Desc_450>ReLight превращает ленту Adalight (Arduino) за телевизором или монитором в подсветку экрана. Лента повторяет цвета по краям картинки, а в режиме кино пропускает чёрные полосы и мягко «дышит» со звуком. Ещё умеет реагировать на музыку и микрофон, светить одним ровным цветом или показывать 14 эффектов-переливов с редактором и плейлистом. Для игр и видеоплееров можно включить свой режим автоматически.</Char_Desc_450>
+      <Char_Desc_2000>ReLight превращает ленту Adalight (Arduino) за телевизором или монитором в подсветку экрана. Лента повторяет цвета по краям картинки, а в режиме кино пропускает чёрные полосы и мягко «дышит» со звуком. Ещё умеет реагировать на музыку и микрофон, светить одним ровным цветом или показывать 14 эффектов-переливов с редактором и плейлистом. Для игр и видеоплееров можно включить свой режим автоматически. Программа сама находит порт ленты, есть тест для подсчёта светодиодов и экран калибровки. Меню в трее, горячие клавиши, автозапуск, тёмная и светлая темы, русский и английский языки. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/relight/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/relight.png</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/relight.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/ReLight/releases/download/ReLight_1_1/ReLight.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

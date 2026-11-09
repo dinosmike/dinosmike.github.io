@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>DCS Logbooker</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>03</Program_Release_Month>
+    <Program_Release_Day>31</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <Program_Category_Class>Games &amp; Entertainment::Tools &amp; Editors</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>30630629</File_Size_Bytes>
+      <File_Size_K>29913</File_Size_K>
+      <File_Size_MB>29.2</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>dcs world, logbook, logbook.lua, campaign editor, flight simulator, dcs</Keywords>
+      <Char_Desc_45>Logbook and campaign editor for DCS World.</Char_Desc_45>
+      <Char_Desc_80>Logbook and campaign editor for DCS World.</Char_Desc_80>
+      <Char_Desc_250>DCS Logbooker opens the DCS World logbook.lua file and shows your campaigns, mission history and pilot profile in clear tables. Edit any entry, add new ones based on an existing record, or add the next mission with the stage number filled in.</Char_Desc_250>
+      <Char_Desc_450>DCS Logbooker opens the DCS World logbook.lua file and shows your campaigns, mission history and pilot profile in clear tables. Edit any entry, add new ones based on an existing record, or add the next mission with the stage number filled in. Search and filter campaigns and history. Every save makes an automatic backup of the original file. No installation needed.</Char_Desc_450>
+      <Char_Desc_2000>DCS Logbooker opens the DCS World logbook.lua file and shows your campaigns, mission history and pilot profile in clear tables. Edit any entry, add new ones based on an existing record, or add the next mission with the stage number filled in. Search and filter campaigns and history. Every save makes an automatic backup of the original file. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>dcs world, логбук, logbook.lua, редактор кампаний, авиасимулятор, dcs</Keywords>
+      <Char_Desc_45>Редактор кампаний и логбука для DCS World.</Char_Desc_45>
+      <Char_Desc_80>Редактор кампаний и логбука для DCS World.</Char_Desc_80>
+      <Char_Desc_250>DCS Logbooker открывает файл logbook.lua авиасимулятора DCS World и показывает кампании, историю миссий и профиль пилота в понятных таблицах.</Char_Desc_250>
+      <Char_Desc_450>DCS Logbooker открывает файл logbook.lua авиасимулятора DCS World и показывает кампании, историю миссий и профиль пилота в понятных таблицах. Можно редактировать любые записи, добавлять новые по образцу или следующую миссию с уже заполненным номером этапа. Есть поиск и фильтр по кампаниям и истории. При каждом сохранении создаётся резервная копия исходного файла. Установка не нужна.</Char_Desc_450>
+      <Char_Desc_2000>DCS Logbooker открывает файл logbook.lua авиасимулятора DCS World и показывает кампании, историю миссий и профиль пилота в понятных таблицах. Можно редактировать любые записи, добавлять новые по образцу или следующую миссию с уже заполненным номером этапа. Есть поиск и фильтр по кампаниям и истории. При каждом сохранении создаётся резервная копия исходного файла. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/logbooker/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/logbooker.jpg</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/logbooker.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/Logbooker/releases/download/DCS_world/Logbooker_1.0.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

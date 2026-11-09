@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>ReQuit</Program_Name>
+    <Program_Version>1.0</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>07</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Category_Class>System Utilities::Automation Tools</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>74264489</File_Size_Bytes>
+      <File_Size_K>72524</File_Size_K>
+      <File_Size_MB>70.8</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>auto shutdown, shutdown timer, sleep timer, cpu monitor, render, download, tray</Keywords>
+      <Char_Desc_45>Auto shutdown timer for Windows</Char_Desc_45>
+      <Char_Desc_80>Auto shutdown timer that turns off the PC when a render or download is finished.</Char_Desc_80>
+      <Char_Desc_250>ReQuit is an auto shutdown app for Windows with a beautiful animated timer. Turn the PC off on a timer, at an exact clock time, or when CPU, GPU or network load drops below a threshold — start a render or a download and walk away.</Char_Desc_250>
+      <Char_Desc_450>ReQuit is an auto shutdown app for Windows with a beautiful animated timer. Turn the PC off on a timer, at an exact clock time, or when CPU, GPU or network load drops below a threshold — start a render or a download and walk away. A delay with a full-screen warning lets you cancel; "Alarm" mode plays a sound instead of shutting down. It can save a screenshot before shutdown and shows the remaining time right on the tray icon. English and Russian.</Char_Desc_450>
+      <Char_Desc_2000>ReQuit is an auto shutdown app for Windows with a beautiful animated timer. Turn the PC off on a timer, at an exact clock time, or when CPU, GPU or network load drops below a threshold — start a render or a download and walk away. A delay with a full-screen warning lets you cancel; "Alarm" mode plays a sound instead of shutting down. It can save a screenshot before shutdown and shows the remaining time right on the tray icon. English and Russian. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>автовыключение, таймер выключения, выключить компьютер, нагрузка процессора, рендер, загрузка</Keywords>
+      <Char_Desc_45>Таймер автовыключения компьютера</Char_Desc_45>
+      <Char_Desc_80>Таймер автовыключения ПК — по времени или когда закончился рендер или загрузка.</Char_Desc_80>
+      <Char_Desc_250>ReQuit — приложение для автовыключения ПК с красивым анимированным таймером. Выключает компьютер по таймеру, в точное время или когда нагрузка на процессор, видеокарту или интернет упадёт ниже порога — поставил рендер или загрузку и ушёл.</Char_Desc_250>
+      <Char_Desc_450>ReQuit — приложение для автовыключения ПК с красивым анимированным таймером. Выключает компьютер по таймеру, в точное время или когда нагрузка на процессор, видеокарту или интернет упадёт ниже порога — поставил рендер или загрузку и ушёл. Отсрочка с полноэкранным предупреждением позволяет передумать, а режим «Сигнал» вместо выключения просто подаёт звук.</Char_Desc_450>
+      <Char_Desc_2000>ReQuit — приложение для автовыключения ПК с красивым анимированным таймером. Выключает компьютер по таймеру, в точное время или когда нагрузка на процессор, видеокарту или интернет упадёт ниже порога — поставил рендер или загрузку и ушёл. Отсрочка с полноэкранным предупреждением позволяет передумать, а режим «Сигнал» вместо выключения просто подаёт звук. Может сохранить скриншот экрана перед выключением и показывает оставшееся время прямо на иконке в трее. Русский и английский языки. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/requit/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/requit.jpg</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/requit.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/ReQuit/releases/download/ReQuit_1_0/ReQuit.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

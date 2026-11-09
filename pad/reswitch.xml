@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>ReSwitch</Program_Name>
+    <Program_Version>1.4</Program_Version>
+    <Program_Release_Month>04</Program_Release_Month>
+    <Program_Release_Day>04</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Category_Class>Desktop::Other</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>71899498</File_Size_Bytes>
+      <File_Size_K>70214</File_Size_K>
+      <File_Size_MB>68.6</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>screen resolution, display settings, resolution switcher, refresh rate, tray, profiles</Keywords>
+      <Char_Desc_45>One-click screen resolution switcher</Char_Desc_45>
+      <Char_Desc_80>Switch screen resolution in one click with saved profiles, right from the tray.</Char_Desc_80>
+      <Char_Desc_250>ReSwitch switches screen resolution on Windows in one click. Save up to five profiles with resolution, refresh rate and color depth, and switch between them from the window or the tray menu.</Char_Desc_250>
+      <Char_Desc_450>ReSwitch switches screen resolution on Windows in one click. Save up to five profiles with resolution, refresh rate and color depth, and switch between them from the window or the tray menu. Before switching, it checks that the display supports the mode; an optional countdown rolls back automatically if you don't confirm. Popular resolutions are a right click away. Themes: Dark, Light, Fuchsia, Aquamarine. No installation needed.</Char_Desc_450>
+      <Char_Desc_2000>ReSwitch switches screen resolution on Windows in one click. Save up to five profiles with resolution, refresh rate and color depth, and switch between them from the window or the tray menu. Before switching, it checks that the display supports the mode; an optional countdown rolls back automatically if you don't confirm. Popular resolutions are a right click away. Themes: Dark, Light, Fuchsia, Aquamarine. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>разрешение экрана, настройки дисплея, переключение разрешения, частота, трей, профили</Keywords>
+      <Char_Desc_45>Смена разрешения экрана в один клик</Char_Desc_45>
+      <Char_Desc_80>Переключение разрешения экрана в один клик по сохранённым профилям, прямо из</Char_Desc_80>
+      <Char_Desc_250>ReSwitch переключает разрешение экрана в один клик. До пяти профилей с разрешением, частотой и глубиной цвета; переключение из окна или из меню трея.</Char_Desc_250>
+      <Char_Desc_450>ReSwitch переключает разрешение экрана в один клик. До пяти профилей с разрешением, частотой и глубиной цвета; переключение из окна или из меню трея. Перед сменой программа проверяет, что дисплей поддерживает режим, а таймер подтверждения сам вернёт прежний режим, если не нажать «Подтвердить». Популярные разрешения — по правому клику. Темы: Тёмная, Светлая, Фуксия, Аквамарин. Установка не нужна.</Char_Desc_450>
+      <Char_Desc_2000>ReSwitch переключает разрешение экрана в один клик. До пяти профилей с разрешением, частотой и глубиной цвета; переключение из окна или из меню трея. Перед сменой программа проверяет, что дисплей поддерживает режим, а таймер подтверждения сам вернёт прежний режим, если не нажать «Подтвердить». Популярные разрешения — по правому клику. Темы: Тёмная, Светлая, Фуксия, Аквамарин. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/reswitch/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/reswitch.jpg</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/reswitch.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/ReSwitch/releases/download/ReSwitch_1_4/ReSwitch.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>

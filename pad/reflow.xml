@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR>Hand-made</MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products.</MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>Mikhail Krylov</Company_Name>
+    <Company_WebSite_URL>https://dinosmike.github.io/</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>Mikhail</Author_First_Name>
+      <Author_Last_Name>Krylov</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Support_Email></Support_Email>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>ReFlow</Program_Name>
+    <Program_Version>1.1</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>05</Program_Release_Day>
+    <Program_Release_Year>2026</Program_Release_Year>
+    <Program_Cost_Dollars>0</Program_Cost_Dollars>
+    <Program_Type>Freeware</Program_Type>
+    <Program_Release_Status>New Release</Program_Release_Status>
+    <Program_Install_Support>No Install Support</Program_Install_Support>
+    <Program_OS_Support>Win10,Win11</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Category_Class>Network &amp; Internet::Network Monitoring</Program_Category_Class>
+    <Program_System_Requirements>Windows 10/11 x64</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>66653062</File_Size_Bytes>
+      <File_Size_K>65091</File_Size_K>
+      <File_Size_MB>63.6</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>N</Has_Expire_Info>
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>internet speed test, speedtest, bandwidth, network, tray, vpn, ip country</Keywords>
+      <Char_Desc_45>Internet speed test in the system tray</Char_Desc_45>
+      <Char_Desc_80>Tiny internet speed test with a speedometer and a one-click test from the</Char_Desc_80>
+      <Char_Desc_250>ReFlow is a small, good-looking internet speed test for Windows. Click the tray icon and the download speed appears right on the icon; open the window to see a speedometer, a live graph, and the maximum and average speed.</Char_Desc_250>
+      <Char_Desc_450>ReFlow is a small, good-looking internet speed test for Windows. Click the tray icon and the download speed appears right on the icon; open the window to see a speedometer, a live graph, and the maximum and average speed. If there is no internet, ReFlow waits for it and starts the test by itself. It also shows the country of your external IP in the window and as a second tray icon; an enhanced mode looks past a VPN to show your real country.</Char_Desc_450>
+      <Char_Desc_2000>ReFlow is a small, good-looking internet speed test for Windows. Click the tray icon and the download speed appears right on the icon; open the window to see a speedometer, a live graph, and the maximum and average speed. If there is no internet, ReFlow waits for it and starts the test by itself. It also shows the country of your external IP in the window and as a second tray icon; an enhanced mode looks past a VPN to show your real country. Test duration 10, 30 or 60 seconds or your own value. English and Russian. No installation needed.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>скорость интернета, замер скорости, спидтест, сеть, трей, vpn, страна по ip</Keywords>
+      <Char_Desc_45>Замер скорости интернета из трея</Char_Desc_45>
+      <Char_Desc_80>Небольшая утилита для замера скорости интернета со спидометром и замером прямо</Char_Desc_80>
+      <Char_Desc_250>ReFlow — небольшая, но очень красивая утилита для замера скорости интернета. Клик по иконке в трее — и скорость появляется прямо на иконке; в окне — спидометр, график, максимум и средняя скорость.</Char_Desc_250>
+      <Char_Desc_450>ReFlow — небольшая, но очень красивая утилита для замера скорости интернета. Клик по иконке в трее — и скорость появляется прямо на иконке; в окне — спидометр, график, максимум и средняя скорость. Если интернета нет, программа ждёт его и начинает замер сама. Показывает страну по внешнему IP в окне и второй иконкой в трее, а усиленный режим определяет реальную страну даже при VPN. Длительность замера 10, 30 или 60 секунд или своё значение.</Char_Desc_450>
+      <Char_Desc_2000>ReFlow — небольшая, но очень красивая утилита для замера скорости интернета. Клик по иконке в трее — и скорость появляется прямо на иконке; в окне — спидометр, график, максимум и средняя скорость. Если интернета нет, программа ждёт его и начинает замер сама. Показывает страну по внешнему IP в окне и второй иконкой в трее, а усиленный режим определяет реальную страну даже при VPN. Длительность замера 10, 30 или 60 секунд или своё значение. Русский и английский языки. Установка не нужна.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>https://dinosmike.github.io/reflow/</Application_Info_URL>
+      <Application_Screenshot_URL>https://dinosmike.github.io/img/reflow.png</Application_Screenshot_URL>
+      <Application_XML_File_URL>https://dinosmike.github.io/pad/reflow.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>https://github.com/dinosmike/ReFlow/releases/download/ReFlow_1_1/ReFlow.exe</Primary_Download_URL>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>Free to distribute.</Distribution_Permissions>
+    <EULA>Provided "as is" for personal and educational use.</EULA>
+  </Permissions>
+</XML_DIZ_INFO>
